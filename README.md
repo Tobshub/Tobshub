@@ -7,7 +7,8 @@ I'm a frontend developer... fullstack incoming.
 
 👩‍💻 I'm currently working on: 
 
-    Finding Work (so if you could help out...)
+  - [Tuu-Duu](https://github.com/Tobshub/Tuu-Duu/) (a project planner app)
+  - Finding Work (so if you could help out...)
 
 🧠 I'm currently learning...
 
