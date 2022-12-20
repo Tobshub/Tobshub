@@ -12,8 +12,7 @@ I'm a fullstack developer.
 
 🧠 I'm currently learning...
 
-    React + Typescript
-    Database Management Systems
+    trpc + React
 
 👯‍♀️ I'm looking to collaborate on...
 
