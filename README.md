@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a frontend developer... fullstack incoming.
+I'm a fullstack developer.
 
 👩‍💻 I'm currently working on: 
 
