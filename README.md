@@ -8,6 +8,7 @@ I'm a fullstack developer.
 👩‍💻 I'm currently working on: 
 
   - [Tuu-Duu](https://github.com/Tobshub/Tuu-Duu/) (a project planner app)
+  - [Tobsnet](https://github.com/Tobshub/tobsnet) (a social media platform)
   - Finding Work (so if you could help out...)
 
 🧠 I'm currently learning...
