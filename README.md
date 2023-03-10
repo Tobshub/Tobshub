@@ -1,7 +1,6 @@
 
 # Hi, I'm Tobs! 👋
 
-## 🚀 About Me
 I'm a fullstack developer.
 
 # 🔗 Links
